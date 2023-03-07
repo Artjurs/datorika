@@ -10,13 +10,9 @@
 <body>
     <h2>Spriegums</h2>
     <p>U = A : q</p>
-    <form>
-        <label>U=</label>
-        <input type="text" id="fname" A="fname">
-        <label>:</label>
-        <input type="text" id="lname" name="lname">
-      </form>
-      <p>(atbilde)</p>
+    <p><input type="text" id="U">=<input type="text" id="A">:<input type="text" id="q"></p>
+    <p><button onclick="atbildePoga()">Izpildīt</button></p>
+        <p id="atbilde">.</p>
 
       <p>Lai enerģētiski ar raksturotu elektrisko 
         lauku un tā spēju veikt darbu, izmanto fizikālu lielumu — spriegumu.
@@ -35,10 +31,6 @@
             <button class="back" onclick="back()">Atpakaļ</button>
         </div>
         
-        <script>
-            function back(){
-                window.location.href="indeks.html";
-            }
-        </script>
+        <script src="skripts_spriegums.js"></script>
 </body>
 </html>
