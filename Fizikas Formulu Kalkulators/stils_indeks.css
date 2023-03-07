@@ -1,0 +1,170 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+    font-family: Arial;
+}
+h2{
+    
+    color: darkblue;
+}
+button{
+    background-color: rgb(113, 113, 200);
+    color: white;
+    padding: 16px;
+    width: 250px;
+    font-size: 16px;
+    border: none;
+}
+button:hover{background-color: darkblue;}
+
+
+
+.siltumietilpiba-btn {
+  background-color: rgb(113, 113, 200);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.siltumietilpiba {
+  position: relative;
+  display: inline-block;
+}
+.siltumietilpiba-content {
+  display: none;
+  position:relative;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.siltumietilpiba-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.siltumietilpiba-content a:hover {background-color: #ddd;}
+.siltumietilpiba:hover .siltumietilpiba-content {display: block;}
+
+
+  .elektriba-btn {
+    background-color: rgb(113, 113, 200);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  .elektriba {
+    position: relative;
+    display: inline-block;
+  }
+  .elektriba-content {
+    display: none;
+    position:relative;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .elektriba-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .elektriba-content a:hover {background-color: #ddd;}
+  .elektriba:hover .elektriba-content {display: block;}
+
+
+
+
+  .energija-btn {
+    background-color: rgb(113, 113, 200);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  .energija {
+    position: relative;
+    display: inline-block;
+  }
+  .energija-content {
+    display: none;
+    position:relative;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .energija-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .energija-content a:hover {background-color: #ddd;}
+  .energija:hover .energija-content {display: block;}
+
+
+
+
+  .duj-btn {
+    background-color: rgb(113, 113, 200);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  .duj {
+    position: relative;
+    display: inline-block;
+  }
+  .duj-content {
+    display: none;
+    position:relative;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .duj-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .duj-content a:hover {background-color: #ddd;}
+  .duj:hover .duj-content {display: block;}
+
+
+
+
+  .sub-btn {
+    background-color: rgb(113, 113, 200);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  .sub {
+    position: relative;
+    display: inline-block;
+  }
+  .sub-content {
+    display: none;
+    position:relative;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .sub-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .sub-content a:hover {background-color: #ddd;}
+  .sub:hover .sub-content {display: block;}
